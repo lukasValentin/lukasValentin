@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @lukasValentin (Lukas Valentin Graf) - PhD candidate in Agronomy at the Department of Environmental System Sciences at ETH Zurich 
+- 👋 Hi, I’m @lukasValentin (Lukas Valentin Graf) - Sciencepreneur at the Department of Environmental System Sciences at ETH Zurich
+- 👨‍🎓 I hold a PhD degree in Crop Science from ETH Zurich for my work on landscape-scale estimation of winter wheat growth and development
 - 🌱 My work is about crops and how to monitor them from space using optical satellite data (mainly Sentinel-2)
 - ❤️ I love Python and Linux and apply them for all kind of geo-spatial analysis
 - 🛰️ To work with 🌍 observation data I created the open-source [Earth Observation Data Analysis Library (EOdal)](https://github.com/EOA-team/eodal) together with [Gregor Perich](https://github.com/gperich)
