@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lukasValentin (Lukas Valentin Graf) - Sciencepreneur at the Department of Environmental System Sciences at ETH Zurich
+- 👋 Hi, I’m @lukasValentin (Lukas Valentin Graf) - CTO at [Terensis](https://terensis.io), a Swiss-based company with the mission to digitize agriculture - one hectare at a time
 - 👨‍🎓 I hold a PhD degree in Crop Science from ETH Zurich for my work on landscape-scale estimation of winter wheat growth and development
-- 🌱 My work is about crops and how to monitor them from space using optical satellite data (mainly Sentinel-2)
+- 🌱 My work is all about crops and how a real added value can be created from satellite and geodata for agriculture
 - ❤️ I love Python and Linux and apply them for all kind of geo-spatial analysis
 - 🛰️ To work with 🌍 observation data I created the open-source [Earth Observation Data Analysis Library (EOdal)](https://github.com/EOA-team/eodal) together with [Gregor Perich](https://github.com/gperich)
 - 🚲 In my spare time I enjoy cycling in the beautiful Swiss landscape, ⛰️ hiking and other outdoor activities such as ⛵ or 🧗‍♂️. I also like reading 📖 and writing ✍️
