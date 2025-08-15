@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lukasValentin (Lukas Valentin Graf) - CTO at [Terensis](https://terensis.io), a Swiss-based company with the mission to digitize agriculture - one hectare at a time
+- 👋 Hi, I’m @lukasValentin (Lukas Valentin Graf) - CTO at [Terensis](https://terensis.io), a Swiss-based company providing **agricultural intelligence for data-driven agriculture**
 - 👨‍🎓 I hold a PhD degree in Crop Science from ETH Zurich for my work on landscape-scale estimation of winter wheat growth and development
 - 🌱 My work is all about crops and how a real added value can be created from satellite and geodata for agriculture
 - ❤️ I love Python and Linux and apply them for all kind of geo-spatial analysis
